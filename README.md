@@ -1,5 +1,5 @@
 # Quinterac, Interactive Banking System
-Assignment for Quality Assurance (QA) course, team DevsSkipQA
+Assignment for Software Quality Assurance (QA) course, team DevsSkipQA
 
 Zilong Zhang - 20062161
 Runqing Zang - 20065628
