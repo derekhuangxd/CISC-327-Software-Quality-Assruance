@@ -1,5 +1,5 @@
-# CISC327---DevsSkipQA
-Assignment for CISC 327, team DevsSkipQA
+# Quinterac, Interactive Banking System
+Assignment for Quality Assurance (QA) course, team DevsSkipQA
 
 Zilong Zhang - 20062161
 Runqing Zang - 20065628
