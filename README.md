@@ -1,5 +1,5 @@
 # Quinterac, Interactive Banking System
-Assignment for Software Quality Assurance (QA) course, team DevsSkipQA
+Project for Software Quality Assurance (QA) course, team DevsSkipQA
 
 Programming Environment
 --------------------------
