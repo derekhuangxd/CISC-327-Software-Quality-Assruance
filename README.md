@@ -1,9 +1,10 @@
 # Quinterac, Interactive Banking System
-Project for Software Quality Assurance (QA) course, team DevsSkipQA
+- Software Testing and Inspection
+- Project for Software Quality Assurance (QA) course, team DevsSkipQA
 
 Programming Environment
 --------------------------
-Java
+- Java
 
 DevsSkipQA Members:
 --------------------------
