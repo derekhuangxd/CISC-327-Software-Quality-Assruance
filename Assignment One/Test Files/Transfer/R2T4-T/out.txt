@@ -1,0 +1,5 @@
+Please enter session type
+Logged in as machine
+Please enter account number to transfer from
+Please enter account number to transfer to
+Invalid account number - should not contain letters

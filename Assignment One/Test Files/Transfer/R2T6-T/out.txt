@@ -1,0 +1,6 @@
+Please enter session type
+Logged in as machine
+Please enter account number to transfer from
+Please enter account number to transfer to
+Please enter an amount of money in cents
+Invalid monetary amount - amount should be non-zero

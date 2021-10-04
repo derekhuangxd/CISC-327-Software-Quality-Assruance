@@ -1,0 +1,6 @@
+login
+machine
+transfer
+1000001
+1000002
+0

@@ -1,0 +1,7 @@
+Please enter session type
+Logged in as machine.
+Please enter account number to transfer from
+Please enter account number to transfer to
+Please enteran amount to transfer in cents
+Successfully transferred $10000.00 to account #1000001
+Successfully logged out

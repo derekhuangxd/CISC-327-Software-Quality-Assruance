@@ -1,0 +1,4 @@
+login
+machine
+transfer
+8888888

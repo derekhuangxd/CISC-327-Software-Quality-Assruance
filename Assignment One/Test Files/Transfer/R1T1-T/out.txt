@@ -1,0 +1,7 @@
+Please enter session type
+Logged in as agent
+Please enter account number to transfer from
+Please enter account number to transfer to
+Please enter an amount to transfer in cents
+Successfully transferred $999999.99 to account #1000001
+Successfully logged out

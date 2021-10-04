@@ -1,0 +1,4 @@
+login
+machine
+transfer
+abcdef

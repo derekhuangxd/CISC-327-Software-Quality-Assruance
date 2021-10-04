@@ -1,0 +1,6 @@
+Please enter session type
+Logged in as agent
+Please enter account number to transfer from
+Please enter account number to transfer to
+Please enter an amount to transfer in cents
+Invalid monetary amount - max amount to transfer is $999999.99
