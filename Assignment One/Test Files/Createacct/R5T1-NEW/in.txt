@@ -1,0 +1,9 @@
+login
+agent
+transfer
+login
+agent
+withdraw
+login
+agent
+deleteacct

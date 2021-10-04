@@ -1,0 +1,1 @@
+Error(R3T2-NEW): account number already exist

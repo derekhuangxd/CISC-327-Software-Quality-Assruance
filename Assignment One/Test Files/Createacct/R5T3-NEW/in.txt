@@ -1,0 +1,6 @@
+login
+agent
+logout
+login
+Machine
+logout

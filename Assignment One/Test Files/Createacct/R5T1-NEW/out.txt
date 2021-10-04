@@ -1,0 +1,1 @@
+Error(R5T1-NEW): transactions can not be done on newly created account

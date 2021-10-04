@@ -1,0 +1,10 @@
+login
+machine
+transfer
+login
+machine
+withdraw
+login
+machine
+deleteacct
+
