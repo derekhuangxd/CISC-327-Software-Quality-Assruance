@@ -1,0 +1,1 @@
+Error(R2T1-DEL): account number invalid, unable to delete account
