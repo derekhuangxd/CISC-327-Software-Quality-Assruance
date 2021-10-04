@@ -1,0 +1,14 @@
+login
+atm
+withdraw
+123456
+800
+withdraw
+123456
+800
+withdraw
+123456
+800
+withdraw
+123456
+800

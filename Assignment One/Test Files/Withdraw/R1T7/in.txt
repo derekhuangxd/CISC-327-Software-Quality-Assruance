@@ -1,0 +1,5 @@
+login
+atm
+withdraw
+123456
+200

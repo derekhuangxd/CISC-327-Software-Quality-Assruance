@@ -1,0 +1,8 @@
+login
+atm
+deposit
+1234567
+600
+withdraw
+1234567
+700
