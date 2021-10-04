@@ -1,0 +1,11 @@
+login
+atm
+deposit
+123456
+2500
+deposit
+123456
+300
+deposit
+123456
+2400

@@ -1,0 +1,5 @@
+login
+atm
+deposit
+123456
+-20

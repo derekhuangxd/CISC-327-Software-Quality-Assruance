@@ -1,0 +1,5 @@
+login
+atm
+deposit
+asofiuy
+1000
