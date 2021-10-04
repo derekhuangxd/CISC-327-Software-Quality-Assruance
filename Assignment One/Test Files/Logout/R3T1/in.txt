@@ -1,0 +1,4 @@
+login
+machine/agent
+logout
+any transaction
